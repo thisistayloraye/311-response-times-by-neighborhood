@@ -141,7 +141,7 @@ summary(lm7)
 
 #-------------------------------------------------------------------------------
 
-# MULTIPLE REGRESSION ON YOUR DATA (HW7 Q3)
+# MULTIPLE REGRESSION ON YOUR DATA
 ## include both continuous and categorical independent variables; interpret results
 ## Make sure you comment your code (describing your variables or data cleaning)
 ## so that the reader understands why you made the decisions you made
@@ -187,7 +187,7 @@ stargazer(m3, type = "text")
 
 #-------------------------------------------------------------------------------
 
-# MULTIPLE REGRESSION + INTERACTION ON YOUR DATA (Q3 HW8)
+# MULTIPLE REGRESSION + INTERACTION ON YOUR DATA
 ## include both continuous and categorical independent variables; interpret results
 ## Make sure you comment your code (describing your variables or data cleaning)
 ## so that the reader understands why you made the decisions you made
